@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<addon scheme="2.0">
+    <id>preserve_forbidden_combinations</id>
+    <name>Preserve Forbidden Combinations</name>
+	<description>Keeps forbidden combinations when an option is removed, dropping only that option from each rule. https://breakfastco.xyz/</description>
+    <version>1.0</version>
+    <priority>50000</priority>
+    <position>0</position>
+    <default_language>en</default_language>
+    <supplier>Breakfast</supplier>
+	<supplier_link>https://breakfastco.xyz</supplier_link>
+    <has_icon>true</has_icon>
+</addon>
